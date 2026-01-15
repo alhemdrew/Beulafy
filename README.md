@@ -1,7 +1,7 @@
 # Beulafy 🌸
 
 <p align="center">
-  <img src="src/img/ux.png" alt="Beulafy Logo" width="180">
+  <img src="src/img/ux.png" alt="Beulafy ux" width="400">
 </p>
 
 **Beulafy** is a web-based platform inspired by the meaning of *Beulah* — something cherished, beautiful, and blessed.  
@@ -30,7 +30,7 @@ Beulafy stores are designed for seamless interaction and commerce:
 4. **WhatsApp Integration:** Every store generates a WhatsApp link so buyers can chat, ask questions, or confirm purchases.  
 5. **Contact If Code Not Available:**  
    <p>
-   <a href="mailto:andrewmoses@example.com">
+   <a href="mailto:alhemdrewdavenchi001@gmail.com">
      <button style="padding:10px 20px; border:none; background-color:#FF69B4; color:white; border-radius:8px; cursor:pointer;">
        Contact Developer
      </button>
@@ -43,14 +43,14 @@ Beulafy stores are designed for seamless interaction and commerce:
 
 ### 🔹 Logo
 <p align="center">
-  <img src="src/img/beulafy2.jpg" alt="Beulafy Logo" width="220">
+  <img src="src/img/beulafy2.jpg" alt="Beulafy Logo" width="350">
 </p>
 
 ---
 
 ### 🔹 Early Design (Old Stores)
 <p align="center">
-  <img src="src/img/old1.png" alt="Old Beulafy Design" width="700">
+  <img src="src/img/old1.jpg" alt="Old Beulafy Design" width="700">
 </p>
 
 <p align="center">
@@ -134,7 +134,7 @@ Beulafy stores are designed for seamless interaction and commerce:
 ## 👨‍💻 Creator
 
 <p align="center">
-  <img src="src/img/creator.png" alt="Andrew Moses" width="160">
+  <img style="width: 150px; height: 150px; border-radius: 50%; src="src/img/creator.png" alt="Andrew Moses" width="160">
 </p>
 
 **Andrew Moses**  
