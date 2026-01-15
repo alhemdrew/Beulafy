@@ -1,7 +1,7 @@
 # Beulafy 🌸
 
 <p align="center">
-  <img src="src/img/ux.png" alt="Beulafy ux" width="400">
+  <img src="src/img/ux.png" alt="Beulafy ux" width="600">
 </p>
 
 **Beulafy** is a web-based platform inspired by the meaning of *Beulah* — something cherished, beautiful, and blessed.  
@@ -74,7 +74,7 @@ Beulafy stores are designed for seamless interaction and commerce:
 
 <p align="center">
   <img src="src/img/me2.png" alt="New Beulafy Design" width="350">
-  <img src="src/img/sent.png" alt="New Beulafy Design" width="350">
+  <img src="src/img/me1.png" alt="New Beulafy Design" width="350">
 </p>
 
 > Improved UI/UX, cleaner layout, better user experience, and enhanced store interaction.
@@ -134,7 +134,7 @@ Beulafy stores are designed for seamless interaction and commerce:
 ## 👨‍💻 Creator
 
 <p align="center">
-  <img style="width: 150px; height: 150px; border-radius: 50%; src="src/img/creator.png" alt="Andrew Moses" width="160">
+  <img src="src/img/creator.png" alt="Andrew Moses" style="width: 150px; height: 150px; border-radius: 50%; >
 </p>
 
 **Andrew Moses**  
