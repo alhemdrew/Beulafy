@@ -134,7 +134,7 @@ Beulafy stores are designed for seamless interaction and commerce:
 ## 👨‍💻 Creator
 
 <p align="center">
-  <img src="src/img/creator.png" alt="Andrew Moses" style="width: 150px; height: 150px; border-radius: 50%; >
+  <img src="src/img/creator.png" alt="Andrew Moses" style="width: 150px; height: 150px; border-radius: 50%;" >
 </p>
 
 **Andrew Moses**  
